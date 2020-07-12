@@ -15,15 +15,25 @@ item {
 
 item {
     id: 4
-    name: 'milepost'
+    name: 'leftsignal'
 }
 
 item {
     id: 5
-    name: 'signal'
+    name: 'longMilepost'
 }
 
 item {
     id: 6
+    name: 'milepost'
+}
+
+item {
+    id: 7
+    name: 'rightsignal'
+}
+
+item {
+    id: 8
     name: 'switch'
 }

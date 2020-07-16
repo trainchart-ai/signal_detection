@@ -1,39 +1,44 @@
 item {
     id: 1
-    name: 'crossover'
+    name: 'controlpoint'
 }
 
 item {
     id: 2
-    name: 'crossoverLabel'
+    name: 'crossover'
 }
 
 item {
     id: 3
-    name: 'elecswitch'
+    name: 'crossoverLabel'
 }
 
 item {
     id: 4
-    name: 'leftsignal'
+    name: 'elecswitch'
 }
 
 item {
     id: 5
-    name: 'longMilepost'
+    name: 'leftsignal'
 }
 
 item {
     id: 6
-    name: 'milepost'
+    name: 'longMilepost'
 }
 
 item {
     id: 7
-    name: 'rightsignal'
+    name: 'milepost'
 }
 
 item {
     id: 8
+    name: 'rightsignal'
+}
+
+item {
+    id: 9
     name: 'switch'
 }
